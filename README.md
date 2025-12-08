@@ -25,11 +25,7 @@ Gosto de explorar novas tecnologias, praticar lógica de programação e me apro
 
 ## 📊 Estatísticas GitHub
 
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Putzgrilla&theme=tokyonight&hide_border=true)
-  
-</div>
+
 
 <div align="center">
   
